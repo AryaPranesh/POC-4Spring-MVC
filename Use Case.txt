@@ -1,0 +1,9 @@
+POC-Spring MVC
+Given Use Case:
+
+Enhance the hotel application with following aspects:
+1. Use Maven for the dependencies
+2. Convert the hotel booking application on to spring related configurations and use Dependency injection, IOC concept
+3. Use Spring JDBC to connect with DB
+4. Follow MVC architecture in the Server side with different rest endpoints as /login, /booking, /bookingstatus, /customer, /admin and separate the layer information as controller, service(business related logic) and dao - Use request and response in JSON format
+5. Introduce Log4j in the application
